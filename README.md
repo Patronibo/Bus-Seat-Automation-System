@@ -28,10 +28,3 @@ Contributing :
  Anyone who wants to contribute to this project ix encouraged to sumbit a pull request or share their
  suggestions in the Issues section. As an open source project, any suggestions and contributions are
  appreciated
-
-
-![Software Architecture :](resim_2025-03-20_030545959.png)
-
-There are 4 packages in our project: Admin, Helper, Model and View. Admin Package includes Admin Panel and related operations. Database Connection and Helper Classes are included in Helper Package. Model Package includes Admin, Man, Record, User and Women Classes and Variables of These Classes. View Package includes Login Operations, Travel Route Selection Panel and Bus Seat Selection Panel.
-
-
