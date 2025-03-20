@@ -38,4 +38,5 @@ Password Transactions, Add/Delete Driver, Add/Delete Bus, Add/Edit/Delete Trip, 
 System Management can be easily performed and the required updates can be made
 quickly.
 
-![Software Architecture :](resim_2025-03-20_030545959.png)
+Software Architecture :
+(resim_2025-03-20_030545959.png)
