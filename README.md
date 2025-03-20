@@ -28,3 +28,8 @@ Contributing :
  Anyone who wants to contribute to this project ix encouraged to sumbit a pull request or share their
  suggestions in the Issues section. As an open source project, any suggestions and contributions are
  appreciated
+
+
+If you want to examine the project in more detail from beginning to end, I definitely recommend you to read this pdf :
+[PDF Dosyasını İndir](link-to-your-pdf-file)
+
