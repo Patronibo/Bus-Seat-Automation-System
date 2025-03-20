@@ -31,5 +31,5 @@ Contributing :
 
 
 If you want to examine the project in more detail from beginning to end, I definitely recommend you to read this pdf :
-[PDF Dosyasını İndir](link-to-your-pdf-file)
+[Bus Ticket Automation - real report.pdf](link-to-your-pdf-file)
 
