@@ -28,3 +28,13 @@ Contributing :
  Anyone who wants to contribute to this project ix encouraged to sumbit a pull request or share their
  suggestions in the Issues section. As an open source project, any suggestions and contributions are
  appreciated
+
+                   *****  BUS TİCKET AUTOMATİON  *****
+Project Description:
+The Purpose of the Project is to Design and Implement a Bus Ticket Automation System. This System Aims to Allow Users to View Bus Trips, Make Ticket Reservations and Purchase Tickets.
+
+There is also an Admin Panel in the Project. This Admin Panel includes Admin
+Password Transactions, Add/Delete Driver, Add/Delete Bus, Add/Edit/Delete Trip, Edit/Delete Passenger and Delete Member Transactions. In this way,
+System Management can be easily performed and the required updates can be made
+quickly.
+
