@@ -31,5 +31,5 @@ Contributing :
 
 
 If you want to examine the project in more detail from beginning to end, I definitely recommend you to read this pdf :
-[Bus Ticket Automation - real report.pdf](OtobüsBiletOtomasyonu-gerçekrapor.pdf)
+[Bus Ticket Automation - real report.pdf](Bus-Ticket-Automation-real-report.pdf)
 
