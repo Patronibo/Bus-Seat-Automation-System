@@ -38,3 +38,4 @@ Password Transactions, Add/Delete Driver, Add/Delete Bus, Add/Edit/Delete Trip, 
 System Management can be easily performed and the required updates can be made
 quickly.
 
+![Software Architecture :](resmin_baglanti_adresi)
